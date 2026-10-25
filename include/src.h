@@ -1,0 +1,4 @@
+#ifndef TJURM_TEST_INCLUDE_TESTS_H_
+#define TJURM_TEST_INCLUDE_TESTS_H_
+int recognize();
+#endif // TJURM_TEST_INCLUDE_TESTS_H_
